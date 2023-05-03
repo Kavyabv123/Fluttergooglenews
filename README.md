@@ -1,10 +1,12 @@
 # crioitproject
 
-A new Flutter project.
+A new Flutter project Created by KAVYA B V 
 
-## Getting Started
-LOGIN PAGE:
+## LOGIN PAGE 
 ![login5](https://user-images.githubusercontent.com/87083414/236015924-d87d596b-4067-4e12-a5c6-8a97eca1e973.png)
+
+## GOOGLE NEWS PAGE
+![googlenews](https://user-images.githubusercontent.com/87083414/236016615-6af993e0-8bf7-428d-a1c1-245523673edf.png)
 
 This project is a starting point for a Flutter application.
 
